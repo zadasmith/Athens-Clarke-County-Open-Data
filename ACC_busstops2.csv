@@ -1,0 +1,484 @@
+route_number,route_name,stop_name,x,y
+1,North Avenue,MLK and 3rd OB,-83.36854099,33.96312979
+0,Multiple Routes,Multimodal Transportation Center,-83.37045605,33.95969978
+0,Multiple Routes,Dept of Labor OB,-83.36703583,33.97118329
+0,Multiple Routes,Athens Plaza OB,-83.3647227,33.97522036
+1,North Avenue,Danielsville and Fowler,-83.35764558,33.98841911
+1,North Avenue,Fowler Drive School,-83.36241947,33.98887924
+1,North Avenue,Fowler and Freeman,-83.36400116,33.98909054
+1,North Avenue,Freeman and Sunnyhills IB,-83.36387383,33.98217485
+0,Multiple Routes,Dogwood Apartments OB,-83.36140578,33.97736517
+0,Multiple Routes,Athens Tech OB,-83.33864003,33.98916042
+0,Multiple Routes,DFCS OB,-83.36595709,33.97226998
+0,Multiple Routes,North Ave and Ruth St IB,-83.3653069,33.97348678
+0,Multiple Routes,North Ave and Strickland IB,-83.36823709,33.96997108
+0,Multiple Routes,North Ave and MLK IB,-83.37075709,33.96734549
+1,North Avenue,1st St at 4th St Strickland Corner OB,-83.36545353,33.96892676
+1,North Avenue,1st St between Wateroak St and Odd St OB,-83.36400219,33.96712439
+1,North Avenue,Freeman Dr at Ashmore Dr 1st IB,-83.36418,33.9873555
+1,North Avenue,Freeman Dr at Ashmore Dr 2nd IB,-83.36411617,33.98566177
+0,Multiple Routes,North Ave at CVS Pharmacy IB,-83.36479271,33.97548508
+0,Multiple Routes,North Ave at Spring Ct IB,-83.36690502,33.97156633
+0,Multiple Routes,North Ave at Stonecrest Apartments IB,-83.36923117,33.96862549
+1,North Avenue,Strickland St at North Ave OB,-83.36795146,33.96984549
+1,North Avenue,3rd St at 1st St Corner OB,-83.36322438,33.96570659
+1,North Avenue,3rd St at Pearl St OB,-83.36731326,33.96375477
+1,North Avenue,E Broad and Willow St OB,-83.36748225,33.95884956
+1,North Avenue,Danielsville Rd and Collins Ind OB,-83.36199563,33.9812155
+1,North Avenue,Danielsville Rd and Highland Greens OB,-83.35964709,33.98442219
+0,Multiple Routes,325 Willow Street,-83.37130713,33.96347067
+0,Multiple Routes,Old Hull Rd and Oak Hill OB,-83.35753144,33.97680121
+0,Multiple Routes,Old Hull Rd and Athena OB,-83.34567146,33.98032888
+0,Multiple Routes,Old Hull and Recycle Center OB,-83.34249073,33.98377329
+0,Multiple Routes,Athens Tech and 2nd Stop OB,-83.33569927,33.99174219
+1,North Avenue,Trail Creek Village,-83.33517551,33.99552486
+0,Multiple Routes,Hwy 29 at Regional First Care,-83.33799751,33.99458455
+1,North Avenue,Freeman Dr at Stop and Shop,-83.3629984,33.98070162
+0,Multiple Routes,E Broad and Dublin St OB,-83.35427573,33.95111829
+2,Multiple Routes,Vine and Gressom OB,-83.35450731,33.95582521
+2,Multiple Routes,Nellie B and Cone Dr OB,-83.35084374,33.95584242
+2,Multiple Routes,Martin Cir and Cook Dr OB,-83.34957585,33.95904447
+2,Multiple Routes,Cook and Washington OB,-83.34562409,33.95874149
+2,Multiple Routes,Nellie B and Cone Drive IB,-83.35279192,33.95597108
+2,Multiple Routes,Cone Dr and Zebulon IB,-83.35266365,33.95670998
+2,Multiple Routes,E Carver and Macedonia IB,-83.35382219,33.95982549
+2,Multiple Routes,E Carver and Peter St IB,-83.35659292,33.96259329
+2,East Athens/Nellie B,Peter and Vine St IB,-83.35925709,33.95930888
+2,East Athens/Nellie B,Vine St and 1st St IB,-83.36489,33.96193439
+2,East Athens/Nellie B,1st and MLK-Chicopee IB,-83.36643782,33.95943208
+0,Multiple Routes,Chicopee OB,-83.36633292,33.95912668
+2,East Athens/Nellie B,Health Center IB,-83.35523846,33.95850207
+0,Multiple Routes,Cook Dr at Cook Cir OB,-83.34837073,33.95925108
+0,Multiple Routes,Dublin St at Arch St OB,-83.35326691,33.9544371
+0,Multiple Routes,E Broad St at Derby St OB,-83.35879835,33.95458105
+0,Multiple Routes,E Broad St at N Poplar St OB,-83.36255002,33.95704605
+0,Multiple Routes,E Broad St at S Peter St OB,-83.36158927,33.95638108
+0,Multiple Routes,Martin Cir at Luther Ln OB,-83.3616,33.95638998
+2,East Athens/Nellie B,McKinley Dr at E Carver Dr IB,-83.35571205,33.9612472
+0,Multiple Routes,Nellie B Ave at Martin Cir IB,-83.34717342,33.95560137
+2,East Athens/Nellie B,Peter St at Moreland Ave IB,-83.35803073,33.96106108
+0,Multiple Routes,Vine St Between Arch St And Dublin St OB,-83.35326073,33.95447778
+2,East Athens/Nellie B,Vine St at Vine Cir IB,-83.36185073,33.96045668
+0,Multiple Routes,Washington Dr at Luther Ln IB,-83.34633,33.95740668
+0,Multiple Routes,E Broad and Willow St OB,-83.3674829,33.95888177
+0,Multiple Routes,Carver and Zatella Ln IB,-83.35299927,33.95834108
+0,Multiple Routes,E Broad at The Foundation Apt OB,-83.35650292,33.95275108
+3,East Athens/North Side,4th and Strickland IB,-83.3653026,33.9688052
+3,East Athens/North Side,4th St at Boys and Girls Club IB,-83.36045854,33.97144108
+3,East Athens/North Side,4th St at HB Stroud IB,-83.35794665,33.9725026
+3,East Athens/North Side,4th St at Oak Hill Apts IB,-83.35667335,33.97322218
+3,East Athens/North Side,North Ave at Stonecrest Apartments IB,-83.36932773,33.96866108
+5,Beechwood/Baxter,UGA Main Library,-83.37323934,33.95518915
+5,Beechwood/Baxter,Baxter and Milledge OB,-83.38669073,33.94944998
+5,Beechwood/Baxter,St Marys Hospital OB,-83.40637073,33.94578778
+5,Beechwood/Baxter,Alps Rd and Broad OB,-83.40945146,33.94902778
+5,Beechwood/Baxter,Hawthorne at Salvation Army OB,-83.40943,33.94904558
+0,Multiple Routes,Westchester Dr - Apts Rt 5,-83.43452431,33.96197328
+0,Multiple Routes,Westchester and Tallassee IB,-83.43341927,34
+0,Multiple Routes,Baxter and Alps IB,-83.40927673,33.94666608
+0,Multiple Routes,Baxter and Milledge IB,-83.38790595,33.94904527
+0,Multiple Routes,Hull St and Baxter St IB,-83.37809438,33.95174608
+0,Multiple Routes,ACC Library at 2025 Baxter Street,-83.40289073,33.94603218
+0,Multiple Routes,Broad and Lumpkin OB,-83.37631073,33.95756218
+0,Multiple Routes,UGA Arch (Downtown Athens),-83.37614768,33.95741448
+5,Beechwood/Baxter,Correll Hall,-83.37670595,33.95242751
+5,Beechwood/Baxter,Baxter and Alps OB,-83.40905801,33.94664988
+5,Beechwood/Baxter,Oglethorpe Elem Sch OB 2,-83.421799,33.96241539
+0,Multiple Routes,Alps Rd at North Alps Square IB,-83.40963292,33.94853998
+0,Multiple Routes,Baxter St Across From Clarke Central IB,-83.38969254,33.94864208
+0,Multiple Routes,Baxter St at Church St IB,-83.38422127,33.94989128
+5,Beechwood/Baxter,Baxter St at Church St OB,-83.38349,33.95023998
+5,Beechwood/Baxter,Baxter St at Clarke Central HS OB,-83.38935219,33.94889998
+0,Multiple Routes,Baxter St at Collins Av Across Police IB,-83.39622246,33.94738528
+5,Beechwood/Baxter,Baxter St at Dudley St ACC Library OB,-83.40218146,33.94636998
+0,Multiple Routes,Baxter St at E Cloverhurst Ave IB,-83.37927073,33.95101998
+0,Multiple Routes,Baxter St at Finley St IB,-83.38132854,33.95056128
+5,Beechwood/Baxter,Baxter St at Lumpkin St OB,-83.37747146,33.95145218
+5,Beechwood/Baxter,Baxter St Btw Columbus and Collins OB,-83.39591854,33.94754998
+5,Beechwood/Baxter,Baxter St at Newton St OB,-83.37895073,33.95132998
+5,Beechwood/Baxter,Baxter St at Paris St IB,-83.39407146,33.94759998
+0,Multiple Routes,Baxter St at Paris St OB,-83.39433854,33.94770998
+0,Multiple Routes,Baxter St at S Finley OB,-83.38074,33.95092778
+0,Multiple Routes,Baxter St at S Rocksprings St IB,-83.39207654,33.94805828
+0,Multiple Routes,495 Hawthorne Ave,-83.41323088,33.95826448
+0,Multiple Routes,415 Hawthorne Avenue,-83.41213146,33.95539298
+5,Beechwood/Baxter,Hawthorne Ave at Oglethorpe Ave Outbound,-83.41422519,33.96211537
+5,Beechwood/Baxter,Hawthorne Ave at Old Epps Bridge Rd OB,-83.40975782,33.95111778
+0,Multiple Routes,Hawthorne Ave at Old W Broad St IB,-83.41123568,33.95427268
+5,Beechwood/Baxter,Power Shopping Center OB,-83.41184292,33.95530998
+0,Beechwood/Baxter,Multiple Routes,-83.41003119,33.95122088
+5,Beechwood/Baxter,Hawthorne Ave at Edwards Dr OB,-83.41297,33.95965888
+5,Beechwood/Baxter,Mitchell Bridge Rd at Tallassee Rd OB,-83.43001846,33.96511368
+0,Multiple Routes,795 Oglethorpe Avenue,-83.41476146,33.96185888
+0,Multiple Routes,1435 Oglethorpe Avenue,-83.42615946,33.96258098
+0,Multiple Routes,1155 Oglethorpe Avenue,-83.421712,33.96227618
+0,Multiple Routes,Oglethorpe Ave at Forest Heights Dr,-83.42734886,33.96347098
+5,Beechwood/Baxter,Oglethorpe Ave at Ga 10 Loop OB,-83.42739146,33.96368329
+0,Multiple Routes,Oglethorpe Ave at Gilleland Dr IB,-83.41614927,33.96157608
+0,Multiple Routes,1005 Oglethorpe Avenue,-83.41805292,33.96189218
+5,Beechwood/Baxter,Oglethorpe Ave at Knottingham Dr OB,-83.41837854,33.96211108
+5,Beechwood/Baxter,Oglethorpe Ave at Resource Medical OB,-83.42446073,33.96271557
+0,Multiple Routes,Tallassee Rd at Mitchell Bridge Rd IB,-83.43056333,33.96592408
+0,Multiple Routes,Westchester at Tallassee Club Villas IB,-83.43468454,33.96370168
+5,Beechwood/Baxter,Baxter St and Across From Baxter Dr OB,-83.39921,33.94710888
+5,Beechwood/Baxter,Hawthorne and Old W Broad OB,-83.41017,33.95338778
+0,Multiple Routes,Baxter and Clarke Middle IB,-83.41015927,33.95336108
+0,Multiple Routes,Baxter and Baxter Dr IB,-83.39933073,33.94686998
+0,Multiple Routes,Baxter and Bloomfield IB,-83.38631709,33.94935108
+0,Multiple Routes,Wray St and Lumpkin St,-83.38634927,33.94933328
+0,Multiple Routes,Baxter St at Rocksprings St OB,-83.39208292,33.94828668
+0,Multiple Routes,240 Mitchell Bridge Road,-83.43284146,33.96167888
+6,Hancock/Baxter,Abbey West Apartments,-83.43329073,33.94017998
+0,Multiple Routes,Broad at 2170 West Broad,-83.407852,33.95036518
+6,Hancock/Baxter,Old Epps Bridge Rd,-83.43122882,33.93984228
+0,Multiple Routes,2241 W Broad Street,-83.4114934,33.94918498
+0,Multiple Routes,Broad and Holman OB 2,-83.4003014,33.95220971
+0,Multiple Routes,Broad and Milledge IB,-83.38937935,33.95456342
+0,Multiple Routes,Atlanta Hwy at 2636 Atlanta Highway,-83.426831,33.94664788
+6,Hancock/Baxter,Hancock and College OB,-83.376363,33.96024808
+6,Hancock/Baxter,Hancock and Milledge OB,-83.38883927,33.95721108
+6,Hancock/Baxter,Gardenia Drive OB,-83.41303936,33.95109098
+6,Hancock/Baxter,Atlanta Hwy at Sr. Sol,-83.41915627,33.94723148
+6,Hancock/Baxter,Camelia Dr Btw Gardenia and Broad OB,-83.41455073,33.95090888
+6,Hancock/Baxter,Epps Bridge Rd at Atlanta Hwy IB,-83.42773927,33.94556668
+0,Multiple Routes,Epps Bridge Rd at Old Epps Bridge Rd OB,-83.42673927,33.94619218
+0,Multiple Routes,2434 West Broad,-83.41773746,33.94799668
+0,Multiple Routes,W Broad St at Billups St OB,-83.39241546,33.95379928
+6,Hancock/Baxter,2350 West Broad,-83.41468673,33.94871678
+0,Multiple Routes,W Broad St at Church St IB,-83.38572773,33.95545308
+0,Multiple Routes,W Broad St at St Marys IB,-83.38567409,33.95544418
+0,Multiple Routes,1925 W Broad Street,-83.40181292,33.95153879
+0,Multiple Routes,1998 W Broad St,-83.40336605,33.95142345
+0,Multiple Routes,2113 W Broad Street,-83.40513294,33.95074069
+0,Multiple Routes,2226 West Broad,-83.41083195,33.94964329
+0,Multiple Routes,W Broad St at Minor St IB,-83.39745097,33.95252993
+0,Multiple Routes,W Broad St at S Newton St IB,-83.38105673,33.95629518
+0,Multiple Routes,W Broad St at S Chase St IB,-83.39106627,33.95410928
+0,Multiple Routes,W Broad St at S Rocksprings St OB,-83.3939929,33.95338575
+6,Hancock/Baxter,W Hancock Ave at Glenhaven Ave OB,-83.3976083,33.95324736
+6,Hancock/Baxter,W Hancock Ave at N Billups St OB,-83.39298586,33.95628196
+6,Hancock/Baxter,W Hancock Ave at N Finley St OB,-83.38336822,33.95860955
+6,Hancock/Baxter,W Hancock Ave at N Franklin St OB,-83.39034238,33.95691848
+6,Hancock/Baxter,W Hancock Ave at N Harris St OB,-83.38790592,33.95749234
+6,Hancock/Baxter,W Hancock Ave at N Newton St OB,-83.38206182,33.95891943
+6,Hancock/Baxter,W Hancock Ave at N Pope St OB,-83.38469854,33.95825659
+6,Hancock/Baxter,W Hancock Ave at N Rocksprings Rd OB,-83.39414927,33.95592548
+0,Multiple Routes,Willow St and North Ave OB,-83.3717051,33.96503439
+0,Multiple Routes,Willow St and Whistlebury OB,-83.3713017,33.96362846
+6,Hancock/Baxter,Thomas and W Hancock,-83.37388219,33.96101439
+6,Hancock/Baxter,2361 W Broad St,-83.41450382,33.9485115
+6,Hancock/Baxter,Baxter and Clarke Middle IB,-83.40628817,33.94557818
+6,Hancock/Baxter,Baxter and Baxter Dr IB,-83.39932,33.94684328
+6,Hancock/Baxter,Baxter and Bloomfield IB,-83.38632782,33.94936888
+6,Hancock/Baxter,Wray St and Lumpkin St,-83.37685673,33.95515038
+6,Hancock/Baxter,Atlanta Hwy at Rivers Edge IB,-83.42199073,33.94678218
+7,Prince Avenue,Prince Ave and Sunset Dr IB,-83.40880127,33.96892918
+0,Multiple Routes,Piedmont Regional Medical Center IB,-83.3980383,33.96223659
+0,Multiple Routes,227 West Dougherty Street,-83.37956462,33.96015109
+0,Multiple Routes,Piedmont Regional Medical Center OB,-83.39783827,33.96249988
+7,Prince Avenue,Homewood Hill,-83.41600387,33.97370769
+7,Prince Avenue,810 Hawthorne Avenue,-83.413861,33.96288988
+0,Multiple Routes,771 Prince Avenue,-83.39003444,33.96132999
+0,Multiple Routes,347 Prince Avenue,-83.38393927,33.96035218
+0,Multiple Routes,Denny Tower,-83.37969227,33.96037818
+7,Prince Avenue,Oglethorpe Ave at Forest Heights Dr,-83.419652,33.96199979
+7,Prince Avenue,Oglethorpe Ave at Gilleland Dr IB,-83.41617073,33.96154049
+0,Multiple Routes,1135 Prince Avenue,-83.39586927,33.96212108
+0,Multiple Routes,1490 Prince Ave,-83.40284773,33.96475788
+0,Multiple Routes,1001 Prince Avenue,-83.39346494,33.96192818
+0,Multiple Routes,Prince Ave at Childs St OB,-83.3835643,33.96051228
+0,Multiple Routes,1295 Prince Avenue,-83.40066167,33.96321079
+0,Multiple Routes,598 Prince Avenue,-83.38772067,33.96122218
+0,Multiple Routes,2000 Prince Ave,-83.40767154,33.96834367
+0,Multiple Routes,1084 Prince Ave,-83.39540764,33.96229453
+0,Multiple Routes,1650 Prince Ave,-83.40547563,33.96666247
+0,Multiple Routes,Prince Ave at Pulaski St OB,-83.38127854,33.96021447
+0,Multiple Routes,784 Prince Ave,-83.39014602,33.96161068
+0,Multiple Routes,1390 Prince Ave,-83.40127063,33.96374698
+0,Multiple Routes,2090 Prince Ave,-83.40915317,33.96968567
+7,Prince Avenue,Hawthorne Medical Center IB,-83.41381563,33.96952998
+7,Prince Avenue,Prince Ave at Kenny Dr IB,-83.40616892,33.96678908
+7,Prince Avenue,Prince Ave at UGA Health Sciences IB,-83.40305889,33.96458779
+0,Multiple Routes,595 Prince Avenue,-83.38759144,33.96091929
+0,Multiple Routes,892 Prince Ave,-83.39210109,33.96196818
+7,Prince Avenue,116 Whitehead Road,-83.4316461,33.98819867
+7,Prince Avenue,342 Whitehead Road,-83.43321238,33.98434519
+7,Prince Avenue,Whitehead Road at Quailwood Drive,-83.43394529,33.97974508
+7,Prince Avenue,Whitehead Road at Edgewood Drive,-83.43464102,33.97704438
+7,Prince Avenue,Whitehead Road at Hunt Road,-83.43659619,33.97365157
+7,Prince Avenue,410 Tallasee Road at Traffic Circle,-83.43788646,33.96930808
+7,Prince Avenue,247 Pulaski Street,-83.38052919,33.95847518
+7,Prince Avenue,104 East Washington Street,-83.37723327,33.95891368
+0,Multiple Routes,Hull and Hoyt OB,-83.37948432,33.96394118
+8,Baxter/Vincent,Barber and Boulevard OB,-83.3852439,33.96530008
+8,Baxter/Vincent,Old Jefferson Road,-83.41644927,33.98307219
+8,Baxter/Vincent,Vincent and Newton Bridge Hopehaven,-83.40117036,33.99714577
+8,Baxter/Vincent,Chase and Rowe,-83.39265992,33.97240029
+8,Baxter/Vincent,Athens Area Emergency Food Bank,-83.38659917,33.96884988
+8,Baxter/Vincent,Barber and Newton Brg OB,-83.39286292,33.97754998
+8,Baxter/Vincent,Jefferson and Vincent IB,-83.42473346,34.00066024
+8,Baxter/Vincent,Rolling Ridge Apartments,-83.40155927,33.98883108
+8,Baxter/Vincent,Prince and Barber OB,-83.38363019,33.96055947
+8,Baxter/Vincent,Boulevard and Chase IB,-83.38358727,33.96055058
+8,Baxter/Vincent,Newton Bridge and Kathwood OB,-83.39850927,33.9893755
+8,Baxter/Vincent,Ruth Dr and Artisan Pl IB,-83.37480782,33.97027888
+8,Baxter/Vincent,Bobby Snipes Building OB,-83.37480782,33.97027888
+8,Baxter/Vincent,Barber St at Cleveland Ave OB,-83.38594,33.96710006
+8,Baxter/Vincent,Barber St Btw Oneta and Alexander OB,-83.38767927,33.97293108
+8,Baxter/Vincent,Boulevard at Barber St IB,-83.38563673,33.96514049
+8,Baxter/Vincent,Chase St at Miles St IB,-83.39256365,33.96935778
+8,Baxter/Vincent,Chase St at Nantahala Ave IB,-83.39272219,33.96758998
+8,Baxter/Vincent,Chase St at Oneta St IB,-83.39234292,33.97103108
+8,Baxter/Vincent,Chase St at Winston Dr IB,-83.39372965,33.97670429
+0,Multiple Routes,E Dougherty St at N Jackson St OB,-83.37543292,33.96192488
+8,Baxter/Vincent,Jefferson River Rd at Camak Dr IB,-83.42607709,33.99119109
+8,Baxter/Vincent,Jefferson River Rd at Sage Lane IB,-83.4258346,33.99937799
+8,Baxter/Vincent,Jefferson River Rd at Southridge Dr IB,-83.4265189,33.99673567
+8,Baxter/Vincent,Kathwood Dr at Club Dr OB,-83.41226854,33.98553667
+8,Baxter/Vincent,Kathwood Dr at Cumberland Ct OB,-83.40358073,33.98794667
+8,Baxter/Vincent,Kathwood Dr at Kathwood Townhouses OB,-83.40554219,33.98700888
+8,Baxter/Vincent,Newton Bridge Rd at Fritz Mar Ln OB,-83.39655782,33.98512108
+8,Baxter/Vincent,Newton Bridge Rd at Fritz Mar Ln IB,-83.39688219,33.98534108
+8,Baxter/Vincent,Newton Bridge Rd at Paradise Blvd OB,-83.39597709,33.98181219
+8,Baxter/Vincent,Newton Bridge Rd at Paradise Blvd IB,-83.39635802,33.98178108
+8,Baxter/Vincent,North Ave at Spring Ct IB,-83.36692446,33.97160388
+8,Baxter/Vincent,Old Jefferson Rd at Camak Dr IB,-83.42240073,33.98854998
+8,Baxter/Vincent,Old Jefferson Rd at Floyd Dr IB,-83.41822927,33.98480108
+8,Baxter/Vincent,Vincent Dr at Acadia Way IB,-83.40607146,33.99776109
+8,Baxter/Vincent,Vincent Dr at Chatham Dr IB,-83.41973073,33.9997844
+8,Baxter/Vincent,Vincent Dr at Chesterton Way IB,-83.41071219,33.9983633
+8,Baxter/Vincent,Vincent Dr at Derricotte Rd IB,-83.42222927,34.0002933
+8,Baxter/Vincent,Vincent Dr at Winery Way IB,-83.41306854,33.99871219
+0,Multiple Routes,325 Willow Street,-83.3714071,33.96345498
+0,Multiple Routes,Dougherty and Jackson St Inbound,-83.37569536,33.96130518
+8,Baxter/Vincent,Health Center OB 8,-83.37752,33.96328108
+8,Baxter/Vincent,Jefferson River Rd at No Name Rd,-83.42636927,33.99481109
+8,Baxter/Vincent,Old Jefferson Rd at Jefferson River Rd,-83.42580527,33.98923667
+8,Baxter/Vincent,Vincent Dr at Linnea Way,-83.41511,33.9989433
+8,Baxter/Vincent,521 North Hull Street,-83.37934912,33.96069649
+8,Baxter/Vincent,Newton Bridge at Kathwood Dr IB,-83.39792,33.9887355
+8,Baxter/Vincent,Ruth St at Magnolia Bluff Dr OB,-83.37475409,33.97228739
+8,Baxter/Vincent,Lake St at Northside Dr OB,-83.37077582,33.97709208
+8,Baxter/Vincent,140 Barber Street,-83.38413917,33.96140998
+8,Baxter/Vincent,Barber at Prince Avenue Inbound,-83.38441438,33.96155208
+9,Macon Hwy/5 Points,Five Points OB,-83.38751519,33.93765059
+9,Macon Hwy/5 Points,River Club Town Homes,-83.40497954,33.91960388
+9,Macon Hwy/5 Points,Macon Highway at Showtime Bowl IB,-83.38552636,33.92007008
+9,Macon Hwy/5 Points,S Lumpkin St at 2136 S Lumpkin St OB,-83.39128219,33.92839108
+9,Macon Hwy/5 Points,S Lumpkin St at Cemetery OB,-83.38976219,33.92108547
+9,Macon Hwy/5 Points,S Lumpkin St at Rutherford St IB,-83.38473764,33.94202218
+9,Macon Hwy/5 Points,Princeton UMC OB,-83.3879751,33.91994888
+9,Macon Hwy/5 Points,S Lumpkin St at Old Princeton Rd OB,-83.39161729,33.92433888
+9,Macon Hwy/5 Points,S Lumpkin St at W Rutherford St OB,-83.3845163,33.94235448
+9,Macon Hwy/5 Points,S Lumpkin St at West Lake Dr OB,-83.39177219,33.93282218
+9,Macon Hwy/5 Points,Timothy Rd at Rhodes Dr OB,-83.39894854,33.91720779
+9,Macon Hwy/5 Points,Macon Hwy at Martha Dr IB,-83.39956609,33.91254037
+9,Macon Hwy/5 Points,S Lumpkin at Westview Dr OB,-83.38953219,33.93513229
+9,Macon Hwy/5 Points,S Lumpkin at Woodrow OB,-83.38588556,33.94107898
+9,Macon Hwy/5 Points,Gilbert Hall IB,-83.37632397,33.95515678
+9,Macon Hwy/5 Points,S. Milledge Drive at S. Milledge Avenue,-83.37918373,33.92264208
+9,Macon Hwy/5 Points,520 Macon Highway Inbound,-83.38503938,33.92045879
+9,Macon Hwy/5 Points,South Lumpkin at Eaglewood Inbound,-83.38955263,33.92124359
+9,Macon Hwy/5 Points,South Lumpkin at Sleepy Creek,-83.39134436,33.92421908
+9,Macon Hwy/5 Points,2136 South Lumpkin Street Inbound,-83.39086771,33.9282933
+9,Macon Hwy/5 Points,2021 South Lumpkin Inbound,-83.39223563,33.93205687
+9,Macon Hwy/5 Points,South Lumpkin at Carlton Terrace,-83.38908544,33.93518287
+9,Macon Hwy/5 Points,South Lumpkin at Earth Fare Inbound,-83.38734017,33.93758658
+9,Macon Hwy/5 Points,1250 South Lumpkin Outbbound,-83.38090938,33.94422358
+9,Macon Hwy/5 Points,Hoke-Smith Annex Inbound,-83.37993382,33.94446838
+9,Macon Hwy/5 Points,Lumpkin Street at Riverview OB,-83.39285747,33.93084322
+0,Multiple Routes,Tucker Hall OB,-83.37108246,33.94228988
+0,Multiple Routes,Performing Arts Center Inbound,-83.37074854,33.94232008
+0,Multiple Routes,East Campus at Cedar Outbound,-83.37130027,33.94574488
+0,Multiple Routes,East Campus at Cedar Inbound,-83.37101036,33.94533508
+12,Riverbend,The Redland Apartments,-83.36831027,33.91878608
+0,Multiple Routes,University Village Building K,-83.37355946,33.93630598
+0,Multiple Routes,E Campus and College IB,-83.37325917,33.93626147
+0,Multiple Routes,Intramural Fields,-83.37148182,33.93486037
+12,Riverbend,Riverbend Pkwy at Players Club Apts OB,-83.36828629,33.92180237
+12,Riverbend,Riverbend Pkwy at Surrey Sq Apts OB,-83.36943354,33.92425678
+12,Riverbend,Riverbend Rd at CCRC Bldg IB,-83.36824436,33.92830998
+12,Riverbend,Riverbend Rd at S Research Lab OB,-83.36501042,33.93054049
+12,Riverbend,S Research Lab IB,-83.36485609,33.93032127
+12,Riverbend,The Redland 2nd Stop IB,-83.36770187,33.91944307
+12,Riverbend,Riverbend Pkwy at The Club Apts IB,-83.3635615,33.9165283
+12,Riverbend,The Club Apts 2nd Stop IB,-83.36812582,33.92279008
+0,Multiple Routes,College Station at UGA Visitors Center,-83.37083744,33.93503728
+0,Multiple Routes,Atlanta Hwy at 2636 Atlanta Highway,-83.42678809,33.94669238
+0,Multiple Routes,Atlanta Hwy at Athens W OB,-83.44985446,33.94069519
+20,Georgia Square Mall,Ultimate Drive,-83.44395536,33.94550738
+20,Georgia Square Mall,Clark Crossing Plaza IB,-83.45652,33.93892218
+0,Multiple Routes,Mission Sqaure,-83.46686673,33.94076718
+20,Georgia Square Mall,Target,-83.44018024,33.94359355
+20,Georgia Square Mall,Alps Rd at North Alps Square IB,-83.40963292,33.94855778
+0,Multiple Routes,3040 Atlanta Highway,-83.44132619,33.94354498
+0,Multiple Routes,3400 Atlanta Highway,-83.45341483,33.93971739
+0,Multiple Routes,3650 Atlanta Highway,-83.45851238,33.93924968
+0,Multiple Routes,3640 Atlanta Highway,-83.45659,33.93933229
+20,Georgia Square Mall,Georgia Square Mall at Marilyn Farmer,-83.47089027,33.94488748
+20,Georgia Square Mall,Georgia Square Mall at Rear Parking,-83.46949927,33.94535998
+20,Georgia Square Mall,2434 West Broad,-83.417716,33.94796108
+20,Georgia Square Mall,W Broad St at Billups St OB,-83.39238327,33.95381708
+0,Multiple Routes,2350 West Broad,-83.41464382,33.94876128
+20,Georgia Square Mall,W Broad St at Church St OB,-83.38556227,33.95564218
+20,Georgia Square Mall,2361 W Broad Street,-83.41452072,33.94851824
+20,Georgia Square Mall,Baxter and Baxter Dr IB,-83.39941656,33.94696788
+0,Multiple Routes,2950 Atlanta Highway,-83.43903454,33.94436108
+20,Georgia Square Mall,W Broad St at Broadacres OB,-83.39580146,33.95322448
+20,Georgia Square Mall,Atlanta Hwy at Budget Motel IB,-83.45253927,33.93950108
+20,Georgia Square Mall,Atlanta Hwy at Bernstein Funeral IB,-83.45027554,33.94008348
+20,Georgia Square Mall,Atlanta Hwy at Rivers Edge IB,-83.42196927,33.94679108
+0,Multiple Routes,Mitchell Brdg at The Preserve Dr,-83.44974936,33.94433408
+0,Multiple Routes,3130 Atlanta Highway,-83.44403173,33.94230198
+21,West Athens,Columbia - Brookside Stop 3,-83.41648373,33.95640208
+21,West Athens,YMCA OB,-83.414467,33.96388149
+21,West Athens,771 Prince Avenue,-83.39008809,33.96137448
+21,West Athens,955 Hawthorne Avenue,-83.413964,33.96977727
+21,West Athens,1171 Mitchell Bridge Rd,-83.45229909,33.94163708
+21,West Athens,Columbia - Brookside Stop 2,-83.41500273,33.95569928
+21,West Athens,Columbia - Brookside Stop 4,-83.41748373,33.95539028
+21,West Athens,Columbia - Brookside Stop 1,-83.41554827,33.95494498
+21,West Athens,Columbia - Brookside Stop 5,-83.41259273,33.95362048
+21,West Athens,Oglethorpe Avenue at Sunset Drive,-83.41072773,33.96234449
+21,West Athens,Marilyn Farmer Way-Midblock,-83.47156229,33.94554048
+0,Multiple Routes,Gaines School and Cedar Shoal South,-83.33706578,33.9280206
+0,Multiple Routes,International Drive,-83.34769146,33.92148218
+22,East Side Circulator,Gaines School and Cedar Shoals,-83.33662546,33.92724927
+22,East Side Circulator,Gaines School and Lexington OB,-83.32351782,33.93780778
+0,Multiple Routes,110 Redstone Drive,-83.317355,33.91113488
+22,East Side Circulator,1137 Cedar Shoals Drive,-83.33649708,33.92723094
+22,East Side Circulator,1300 Cedar Shoals Drive,-83.33049965,33.92345188
+0,Multiple Routes,Barnett Shoals Rd at Burger King IB,-83.34030927,33.92422998
+22,East Side Circulator,Barnett Shoals at Green Acres SC OB,-83.33993927,33.92426327
+0,Multiple Routes,Barnett Shoals Rd at Habachi,-83.34123146,33.92253218
+0,Multiple Routes,105 Boulder Trail,-83.3215649,33.9166803
+0,Multiple Routes,Cedar Shoals Dr Across From E Paces Dr,-83.32617146,33.92110327
+0,Multiple Routes,1525 Cedar Shoals Dr IB,-83.32393619,33.91886037
+0,Multiple Routes,1587 Cedar Shoals Dr IB,-83.3216979,33.91711698
+0,Multiple Routes,Cedar Shoals Dr at Alden Ct,-83.31707819,33.91301117
+0,Multiple Routes,Cedar Shoals Dr at Bayberry Ct,-83.31856146,33.91422437
+0,Multiple Routes,Cedar Shoals Dr at Boulder Trl,-83.32177583,33.91678998
+0,Multiple Routes,1395 Cedar Shoals Drive,-83.32505936,33.92059898
+0,Multiple Routes,Cedar Shoals Dr at Crows Nest Ct,-83.3241391,33.91875247
+0,Multiple Routes,Cedar Shoals Dr at E Paces Dr IB,-83.3260269,33.92129608
+0,Multiple Routes,Cedar Shoals Dr at Essex Ct,-83.32010292,33.91547108
+0,Multiple Routes,Cedar Shoals Dr at Spring Lake Dr IB,-83.32883009,33.92283179
+0,Multiple Routes,Cedar Shoals Dr at Studio Ct,-83.32876571,33.92285849
+22,East Side Circulator,College Station Across Riverbend Rd IB,-83.36405382,33.93215849
+22,East Side Circulator,College Station Across Rivers Crossng IB,-83.35809882,33.93101878
+0,Multiple Routes,College Station at College Cir 1st Stop,-83.35109036,33.92207869
+0,Multiple Routes,College Station at College Cir 2nd Stop,-83.35481927,33.92564547
+0,Multiple Routes,College Station Rd at Mark Twain Cir IB,-83.35004955,33.92183969
+0,Multiple Routes,953 College Station at Poultry Research,-83.35547409,33.92719947
+22,East Side Circulator,Gaines School Rd Across Hilsman MS OB,-83.33433582,33.93038327
+22,East Side Circulator,Gaines School Rd at Barrington Pl OB,-83.33578646,33.92900737
+0,Multiple Routes,Gaines School Rd at Briarcliff Ln IB,-83.32584727,33.93624359
+22,East Side Circulator,Gaines School Rd at Cedar Creek Dr OB,-83.33270136,33.93195008
+22,East Side Circulator,Gaines School Rd at Cedar Pointe Dr OB,-83.33118563,33.93271437
+22,East Side Circulator,Gaines School Rd at Civitan Club Dr OB,-83.32750463,33.93467428
+0,Multiple Routes,1060 Gaines School Road,-83.33869882,33.92638918
+0,Multiple Routes,Gaines School Rd at McDonalds IB,-83.32438627,33.93731808
+0,Multiple Routes,Gaines School Rd at Hilsman MS IB,-83.33558025,33.92963614
+22,East Side Circulator,Gaines School Rd at Ponderosa Dr OB,-83.32815563,33.93425108
+0,Multiple Routes,175 International Dr at Reserve Apts,-83.34763873,33.92526098
+0,Multiple Routes,210 Highland Park Dr IB,-83.3206369,33.91375698
+0,Multiple Routes,246 Highland Park Dr IB,-83.31877527,33.91240298
+0,Multiple Routes,110 International Dr at Polo Club Apts,-83.31868944,33.91242079
+22,East Side Circulator,Lexington Rd Across From Cooper Rd OB,-83.31679727,33.93551728
+0,Multiple Routes,Lexington Rd at East Meadow Dr IB,-83.32036909,33.93780199
+22,East Side Circulator,Lexington Rd at The Oaks Apts OB,-83.31903619,33.93669738
+22,East Side Circulator,Lexington Rd at Reed St OB,-83.31343827,33.93377228
+22,East Side Circulator,Lexington Rd at Willowood OB,-83.32101927,33.93774767
+0,Multiple Routes,Gaines School at Presbyterian Church OB,-83.33874555,33.92605498
+0,Multiple Routes,Gaines School Rd Across Ponderosa Dr IB,-83.32847719,33.93430388
+0,Multiple Routes,Gaines School Rd at Legacy Apts IB,-83.33132373,33.93291228
+0,Multiple Routes,Gaines School Rd at The Pointe Apts IB,-83.33290573,33.93205108
+0,Multiple Routes,178 Highland Park Drive,-83.33285209,33.93208669
+0,Multiple Routes,160 Highland Park Drive,-83.32280527,33.91540598
+0,Multiple Routes,1245 Cedar Shoals Drive,-83.33249163,33.92483769
+0,Multiple Routes,Cedar Shoals at College Glen,-83.33474709,33.92600808
+22,East Side Circulator,Gaines School at Maison Dr OB,-83.32547254,33.93626508
+0,Multiple Routes,1195 Cedar Shoals Drive,-83.33460854,33.92619449
+0,Multiple Routes,Kroger at College Station Inbound,-83.34402727,33.92042998
+24,Athens Tech,275 Collins Industrial,-83.34557565,33.98578388
+24,Athens Tech,231 Collins Industrial,-83.34783682,33.98329798
+24,Athens Tech,205 Collins Industrial,-83.34992673,33.98116129
+24,Athens Tech,195 Collins Industrial,-83.35493573,33.9801575
+24,Athens Tech,111 Collins Industrial,-83.36156427,33.98050277
+0,Multiple Routes,Williams and Oconee OB,-83.36947727,33.95427908
+25,Lexington/Gaines School,ACC Police Department IB,-83.32725271,33.94151778
+25,Lexington/Gaines School,Busbee Hall,-83.368476,33.93813219
+25,Lexington/Gaines School,188 Williams Street at Oconee Street,-83.36964,33.95432718
+25,Lexington/Gaines School,Barnett Shoals Rd at Burger King IB,-83.34033073,33.92430565
+25,Lexington/Gaines School,1560 Lexington Road,-83.35237065,33.94639107
+25,Lexington/Gaines School,Lexington Rd at Cooper Rd IB,-83.31650127,33.93571798
+25,Lexington/Gaines School,Lexington Rd at Diversion Center IB,-83.33110527,33.94262198
+25,Lexington/Gaines School,2205 Lexington Road,-83.33997837,33.94494573
+25,Lexington/Gaines School,Lexington Rd at Indiana Ave OB,-83.346736,33.94545928
+25,Lexington/Gaines School,1735 Lexington Road,-83.3479959,33.94620889
+25,Lexington/Gaines School,Lexington Rd at The Oaks Apts OB,-83.31903619,33.93670628
+25,Lexington/Gaines School,1960 Lexington Road,-83.34372578,33.94467376
+25,Lexington/Gaines School,2194 Lexington Road,-83.3408025,33.94467534
+25,Lexington/Gaines School,Lexington Rd at Lowes IB,-83.32402036,33.93978049
+25,Lexington/Gaines School,Lexington Rd at Mabry Dr IB,-83.34258927,33.94486448
+25,Lexington/Gaines School,Lexington Rd at Pinnacle Bank OB,-83.32503927,33.93987338
+25,Lexington/Gaines School,Lexington Rd at Reed St OB,-83.31351338,33.93375892
+25,Lexington/Gaines School,Lexington Rd at Seagraves Dr OB,-83.33232219,33.94266438
+25,Lexington/Gaines School,Lexington Rd at Shadybrook Dr OB,-83.33455073,33.94351888
+25,Lexington/Gaines School,Lexington Rd at Thorton Plaza OB,-83.33031146,33.94210108
+25,Lexington/Gaines School,Lexington Rd at Willowood OB,-83.32106219,33.93780553
+0,Multiple Routes,337 Oak Street,-83.36283327,33.95184098
+0,Multiple Routes,Oak St at Carr St OB,-83.36185019,33.95088628
+0,Multiple Routes,Oak St at Poplar St OB,-83.36561219,33.95328218
+0,Multiple Routes,235 Oak St at Poplar St IB,-83.36503709,33.95325328
+25,Lexington/Gaines School,Oconee St at Park And Ride OB,-83.35750082,33.94727938
+0,Multiple Routes,1321 Oconee Street,-83.35797401,33.94795942
+0,Multiple Routes,UGA Human Resources,-83.37357927,33.95652218
+0,Multiple Routes,450 Balwdwin at Stone Mill Run,-83.37003757,33.95312619
+26,College Station,College Station Rd at Riverbend Rd OB,-83.3637987,33.93183938
+26,College Station,850 College Station,-83.35855192,33.93095108
+26,College Station,1078 College Station at Segrest Cir OB,-83.35200973,33.92204237
+26,College Station,1012 College Station at University Cir,-83.35447927,33.92406437
+26,College Station,960 College Station - U.S. EPA,-83.35598792,33.92741637
+26,College Station,Barnett Shoals at Forest Road Inbound,-83.34171482,33.92098717
+27,Barnett Shoals/Cedar Shoals,UGA College of Environment and Design,-83.37305346,33.95487708
+27,Barnett Shoals/Cedar Shoals,1137 Cedar Shoals Drive,-83.33655528,33.92733058
+27,Barnett Shoals/Cedar Shoals,188 Williams Street at Oconee Street,-83.36954546,33.95431938
+27,Barnett Shoals/Cedar Shoals,Fire Station 5 - 1090 Whit Davis Road,-83.31440272,33.9110691
+27,Barnett Shoals/Cedar Shoals,1300 Cedar Shoals Drive,-83.33056922,33.92360997
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals Rd at Bailey St IB,-83.35386219,33.94482998
+27,Barnett Shoals/Cedar Shoals,445 Barnett Shoals Rd at Dekle Dr IB,-83.35154636,33.94090888
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals Rd at Georgetown Cir IB,-83.34073709,33.92691547
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals Rd at Research Dr OB,-83.34302432,33.92928368
+27,Barnett Shoals/Cedar Shoals,335 Barnett Shoals Rd at Johnson Dr IB,-83.35248609,33.94239308
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals Rd at Park Ridge Dr IB,-83.34381109,33.93037808
+27,Barnett Shoals/Cedar Shoals,1035 Barnett Shoals Rd at The Summit,-83.34813328,33.93238313
+27,Barnett Shoals/Cedar Shoals,1800 Cedar Shoals Drive,-83.31496073,33.91134217
+27,Barnett Shoals/Cedar Shoals,410 Whit Davis Road,-83.31121773,33.92411608
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd Across From Pettit Ln IB,-83.31093073,33.92216863
+27,Barnett Shoals/Cedar Shoals,730 Whit Davis Road,-83.31161027,33.91881695
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Carrington Dr OB,-83.311795,33.91603543
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Cedar Springs Dr IB,-83.31207419,33.91607898
+27,Barnett Shoals/Cedar Shoals,525 Whit Davis Road,-83.31093299,33.92414698
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Firewood Ct IB,-83.31156636,33.93108328
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Honey Tree Dr IB,-83.31295427,33.91202208
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Meadow Creek Dr IB,-83.31154336,33.92768698
+27,Barnett Shoals/Cedar Shoals,625 Whit Davis Road,-83.31063944,33.92194937
+27,Barnett Shoals/Cedar Shoals,1105 Whit Davis Road,-83.3128879,33.91169437
+27,Barnett Shoals/Cedar Shoals,325 Whit Davis Road,-83.31130754,33.92731418
+27,Barnett Shoals/Cedar Shoals,Whit Davis Rd at Whisperwood Ln OB,-83.31143517,33.91869069
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals at Ikon Apts OB,-83.35295327,33.94251698
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals at The Woodlands Apt OB,-83.35166146,33.94039218
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals at Brookewood Mill OB,-83.35098719,33.93698178
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals at Dennis Dr OB,-83.341371,33.92725437
+27,Barnett Shoals/Cedar Shoals,1025 Barnett Shoals at Lakewood Hills,-83.35017836,33.93467808
+27,Barnett Shoals/Cedar Shoals,Barnett Shoals across Carriage Ln IB,-83.35053344,33.93659218
+27,Barnett Shoals/Cedar Shoals,Whit Davis Across From Firewood Ct OB,-83.31150409,33.93077118
+30,North Side Circulator ,Hallmark Mobile Home Park,-83.331016,33.96130398
+30,North Side Circulator ,Athena Drive and Olympic Drive,-83.32935965,33.97528988
+30,North Side Circulator ,North Ave and Hull Road,-83.35688836,33.98817488
+30,North Side Circulator ,JJ Harris Elementary School,-83.34618609,34.01055741
+30,North Side Circulator ,Veterans Administration,-83.31567879,34.02894601
+30,North Side Circulator ,Voyles Road and Spring Valley Road,-83.30264919,33.98761998
+30,North Side Circulator ,Trail Creek - (Rt. 30 - Northside),-83.33521736,33.99549251
+30,North Side Circulator ,Pinewoods,-83.3279541,34.01044809
